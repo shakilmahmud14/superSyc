@@ -1,0 +1,48 @@
+/*for tablet device*/
+@media screen and (min-width:768px) and (max-width:991px){
+/*	side-navbar area start hare*/
+/*header area responsive start hare*/
+
+/*header area responsive end hare*/
+/*navbar area responsive start hare*/
+
+
+
+/*navbar area responsive start hare*/
+/*features area responsive hare*/
+
+
+/*features area responsive hare*/	
+/*gallery area resposive*/
+
+/*owl carousel responsive*/
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/*	For mobile device*/
+
+@media screen and (max-width:767px) {
+
+/*header area responsive start hare*/
+.nav-area {
+	display: none;
+}
+
+
+
+
+
+
+
+
+}
