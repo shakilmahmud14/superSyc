@@ -36,7 +36,93 @@
 /*header area responsive start hare*/
 .nav-area {
 	display: none;
+	height: auto !important;
 }
+
+.hader-content {
+	padding: 15px 10px;
+}
+/*header area responsive end hare*/
+.main-area {
+	padding-left: 0rem !important;
+}
+/*alert area responsive hare*/
+.alert-area {
+	padding: 15px 10px;
+}
+.input-group input {
+	max-width: 230px;
+}
+.input-group-append span {
+	font-size: 12px;
+}
+/*alert area responsive end hare*/
+/*data nav area responsive hare*/
+.data-area {
+	padding: 10px 10px;
+}
+.Audience-list {
+	text-align: center;
+}
+.Audience-list p {
+	font-size: 12px;
+}
+.search-bar input {
+	width: 70px;
+}
+.search-bar input::placeholder {
+	font-size: 10px;
+}
+.add-bar p {
+	font-size: 10px;
+}
+.add-bar img {
+	display: none;
+}
+.ad-account {
+	display: none !important;
+}
+.Audience-size {
+	display: none;
+}
+.menu-bar {
+
+}
+.menu-bar {
+	display: block;
+}
+.menu-bar p {
+	display: inline-block;
+}
+.sm-d-n {
+	display: none !important;
+}
+.sm-padding {
+	padding-left: 6rem !important;
+}
+.Audience-name p {
+	font-size: 12px;
+	padding-right: 5px;
+}
+.date-item {
+	padding-right: 10px;
+}
+.date-item p {
+	font-size: 12px;
+}
+.delete {
+	padding: 0px 5px;
+}
+
+
+.page-list-content {
+	display: block!important;
+	text-align: center;
+}
+.list-item {
+	padding-top: 10px;
+}
+
 
 
 

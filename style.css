@@ -348,3 +348,29 @@ a:hover {
 .delete i {
 	color: #FA3434;
 }
+
+/*data-base area style end hare*/
+.page-list-content {
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 0px;
+}
+.page-list-content p {
+	margin: 0;
+}
+.list-item ul {
+	margin: 0;
+}
+.list-item ul li {
+	display: inline-block;
+	list-style: none;
+	padding-right: 5px;
+}
+.list-item ul li a {
+	color: #575A7B;
+	padding: 3px 5px;
+	border-radius: 50%;
+}
+.data-base-delete {
+	display: none !important;
+}
